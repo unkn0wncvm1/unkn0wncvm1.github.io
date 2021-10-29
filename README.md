@@ -1,5 +1,5 @@
-<style
-       background-color:gray;
+<style>
+       background-color: gray;
        </style>
 # unkn0wncvm1.github.io
 <br>
